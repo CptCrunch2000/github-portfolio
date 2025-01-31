@@ -1,4 +1,2 @@
 # Portfolio
-
-Origin portfolio template by Nisar Hassan Naqvi  click [here &rarr;](https://nisar.dev)
-
+Click here to show portfolio [👉 👀 👈](https://cptcrunch2000.github.io/github-portfolio/).
